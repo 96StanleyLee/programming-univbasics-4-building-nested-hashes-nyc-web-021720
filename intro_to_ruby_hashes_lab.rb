@@ -28,13 +28,13 @@ def monopoly_with_third_tier
 		railroads: {
 			pieces: 4,
 			rent_in_dollars:{
-				key1: "",
+				key1: 25,
 				key2: "",
 				key3: "",
 				key4: ""
 			},
 			names:{
-				key5: 25,
+				key5: "",
 				key6: "",
 				key7: "",
 				key8: ""
